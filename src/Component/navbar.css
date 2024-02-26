@@ -1,0 +1,14 @@
+ul,li{
+    display:inline-block;
+}
+nav{
+    background-color: rgb(140, 224, 224);
+}
+li{
+    margin-left: 80px;
+}
+.link{
+    text-decoration: none;
+    color: black;
+    font-size: 25px;
+}
